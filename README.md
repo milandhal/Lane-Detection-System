@@ -1,4 +1,4 @@
-**RAKSHAK**🚘an Advanced Lane Assist System (ALAS)
+**RAKSHAK**   Advanced Lane Assist System (ALAS)
 Real-Time Lane Detection & Road Curvature Estimation
 
 📌 Overview
